@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Olisa👋
 
-I am a self-learning DevOps engineer in the middle of a career switch. Excited about building resilient scalable systems, cloud infrastructure, and continuous delivery. Currently documenting my #30DaysOfDevOps journey as i aim to master cloud-native technology.
+After months of immersing myself in the world of DevOps and cloud engineering, I've gone from writing my first Terraform configs to orchestrating full-scale CI/CD pipelines! My goal? Designing **secure, scalable, resilient systems** in the cloud.  
+
+I'm actively exploring **remote opportunities** where I can contribute and grow
 
 Check me out on: 
 https://twitter.com/youfoundolisa
 https://www.linkedin.com/in/madubuikeolisa/
 
-Fun fact: I'm awesome
+
+*Still documenting my #DevOps journey—learning, check my LinkedIn!* 
 
