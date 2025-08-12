@@ -9,5 +9,5 @@ https://twitter.com/youfoundolisa
 https://www.linkedin.com/in/madubuikeolisa/
 
 
-*Still documenting my #DevOps journey—learning, check my LinkedIn!* 
+*I'm still documenting my DevOps journey, check my LinkedIn!* 
 
